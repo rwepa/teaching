@@ -2,7 +2,7 @@
 
 ---
 
-110-1 資料庫管理系統(管理)
+110-1 資料庫管理系統(管理) [https://github.com/rwepa/teaching-sqlite]
 
 110-1 系統程式
 
