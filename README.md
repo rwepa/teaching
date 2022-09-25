@@ -2,7 +2,7 @@
 
 ---
 
-111-1 AI與程式語言 - Python (淡江大學) - 2學分
+111-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 2學分
 
 111-1 資料倉儲導論 - R (育達科技大學) - 2學分
 
