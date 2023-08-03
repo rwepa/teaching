@@ -2,9 +2,9 @@
 
 ---
 
-111-2 程式設計 - Python (淡江大學) - 3學分
+111-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (淡江大學) - 3學分
 
-111-2 程式設計 - Python (育達科技大學) - 4學分
+111-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (育達科技大學) - 4學分
 
 111-2 實用資訊 - Power BI (育達科技大學) - 2學分
 
