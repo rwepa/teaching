@@ -2,6 +2,18 @@
 
 ---
 
+112-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 1學分*2班
+
+112-1 管理心理學與實作 (佛光大學) - 3學分
+
+112-1 電子商務與app - App Inventor 2 (佛光大學) - 3學分
+
+112-1 資料結構 - Python (育達科技大學) - 4學分
+
+112-1 進階程式設計 - R [https://github.com/rwepa/teaching-programming-with-r] (育達科技大學) - 2學分
+
+---
+
 111-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (淡江大學) - 3學分
 
 111-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (育達科技大學) - 4學分
@@ -14,7 +26,7 @@
 
 ---
 
-111-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 2學分
+111-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 1學分*2班
 
 111-1 資料倉儲導論 - R (育達科技大學) - 2學分
 
