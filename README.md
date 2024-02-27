@@ -1,6 +1,6 @@
 # 歷年上課表
 
-112-2 工程統計（二） - SPSS (淡江大學) - 2學分
+112-2 工程統計（二） - SPSS [https://github.com/rwepa/market_survey_research] (淡江大學) - 2學分
 
 112-2 人工智能與大數據分析 - Power BI (佛光大學) - 3學分
 
@@ -8,7 +8,7 @@
 
 112-2 實用資訊 - Power BI (育達科技大學) - 2學分
 
-112-2 AI基礎程式設計 - Python (育達科技大學) - 4學分
+112-2 AI基礎程式設計 - Python [https://github.com/rwepa/teaching-ai_programming] (育達科技大學) - 4學分
 
 ---
 
