@@ -8,7 +8,7 @@
 
 112-2 實用資訊 - Power BI (育達科技大學) - 2學分
 
-112-2 AI基礎程式設計 - Python [https://github.com/rwepa/teaching-ai_programming] (育達科技大學) - 4學分
+112-2 AI基礎程式設計 - Python [https://github.com/rwepa/teaching-programming] (育達科技大學) - 4學分
 
 ---
 
