@@ -1,5 +1,19 @@
 # 歷年上課表
 
+---
+
+113-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 1學分*2班
+
+113-1 人工智慧實務應用 - Python (佛光大學) - 3學分
+
+113-1 管理資訊系統 (佛光大學) - 3學分
+
+113-1 資料結構 - Python (育達科技大學) - 4學分
+
+113-1 雲端運算概論 - Ubuntu (育達科技大學) - 2學分
+
+---
+
 112-2 工程統計（二） - SPSS [https://github.com/rwepa/market_survey_research] (淡江大學) - 2學分
 
 112-2 人工智能與大數據分析 - Power BI (佛光大學) - 3學分
