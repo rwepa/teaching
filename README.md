@@ -2,6 +2,18 @@
 
 ---
 
+113-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (淡江大學) - 3學分
+
+113-2 管理科學 - Excel (佛光大學) - 3學分
+
+113-2 大數據分析及應用 (佛光大學) - 3學分
+
+113-2 基礎程式設計 - Python (育達科技大學) - 4學分
+
+113-2 實用資訊 - Power BI (育達科技大學) - 2學分
+
+---
+
 113-1 AI與程式語言 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 1學分*2班
 
 113-1 人工智慧實務應用 - Python (佛光大學) - 3學分
