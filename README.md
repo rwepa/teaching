@@ -2,6 +2,14 @@
 
 ---
 
+114-1 人工智慧導論 - Python [https://github.com/rwepa/teaching-ai_programming] (淡江大學) - 1學分*2班
+
+114-1 管理資訊系統 (佛光大學) - 3學分
+
+114-1 電子商務與App (佛光大學) - 3學分
+
+---
+
 113-2 程式設計 - Python [https://github.com/rwepa/teaching-programming] (淡江大學) - 3學分
 
 113-2 管理科學 - Excel (佛光大學) - 3學分
